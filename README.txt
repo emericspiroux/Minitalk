@@ -16,7 +16,7 @@ the sentence that was sent.
 -----------------------------------------------------------------
  1 - Make the makefile
  2 - Launch the server and keep the pid.
- 3 - Lauch the client : ./client [pid] [message]
+ 3 - Launch the client : ./client [pid] [message]
 
 -----------------------------------------------------------------
 			Uninstall
